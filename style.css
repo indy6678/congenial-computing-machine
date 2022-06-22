@@ -2,10 +2,24 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-.title {
-    font-weight: bold;
+.intro, .title {
+    text-align: center;
+    margin: 15px;
 }
 
+.start {
+    background: purple;
+    color: white;
+    padding: 7px 10px 7px 10px;
+    border-radius: 10px;
+    border-color: purple;
+}
+
+.start-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
