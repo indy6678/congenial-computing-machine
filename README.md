@@ -13,3 +13,6 @@ The quiz begins by clicking the start button:
 - When the timer reaches 0, the game is over
 - When the game ends, there will be an opportunity to save the score (the remaining time) as a high score
 
+[Coding Quiz Challenge](https://indy6678.github.io/congenial-computing-machine/)
+
+![Coding Quiz Challenge](./assets/images/Screenshot.png)
